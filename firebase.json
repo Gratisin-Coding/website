@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "gratisin-coding",
     "public": "src",
     "ignore": [
       "firebase.json",
